@@ -2,7 +2,7 @@
 
 ## Usage
 
-Links like [`https://sancarn.github.io/copy-to-clipboard/index.html?copy=orange`](https://sancarn.github.io/copy-to-clipboard/index.html?copy=orange) will copy `orange` to the clipboard (as long as the user enables it).
+Links like [`https://ghutches.github.io/copy-to-clipboard/index.html?copy=orange`](https://ghutches.github.io/copy-to-clipboard/index.html?copy=orange) will copy `orange` to the clipboard (as long as the user enables it).
 
 > Note: This uses the `Clipboard` API and isn't anything to shout home about. This will not be compatible with old browsers.
 
@@ -18,7 +18,7 @@ The intiial reason I created this site is a workaround to inflexible sharepoint 
     "iconName": "Copy",
     "target": "_blank",
     "class": "ms-borderColor-white ms-borderColor-themePrimary--hover",
-    "href": "='https://sancarn.github.io/copy-to-clipboard/index.html?copy=' + @currentField"
+    "href": "='https://ghutches.github.io/copy-to-clipboard/index.html?copy=' + @currentField"
   },
   "style": {
     "color": "#272727",
