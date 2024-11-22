@@ -1,6 +1,6 @@
 # copy-to-clipboard
 
-This is a clone of James Warren's aka "Sancarn" useful copy-to-clipboard site ['https://github.com/sancarn/copy-to-clipboard'](https://github.com/sancarn/copy-to-clipboard).
+This is a clone of James Warren's aka "Sancarn" useful copy-to-clipboard project ['https://github.com/sancarn/copy-to-clipboard'](https://github.com/sancarn/copy-to-clipboard).
 
 ## Usage
 
